@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-test-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run_test_case.js",
+  "scripts": {
+    "start": "bash prepare.sh && node run_test_case.js"
+  },
+  "dependencies": {
+    "mongodb": "6.15"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
